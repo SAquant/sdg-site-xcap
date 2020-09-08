@@ -3213,6 +3213,7 @@ $(function() {
       targetEl.show();
       $(".top-level li button[data-target='" + target + "']").attr("aria-expanded", "true");
       $(this).parent().addClass('active');
+      $('#indicator_search').focus();
     }
   });
 
