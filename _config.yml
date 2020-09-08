@@ -16,7 +16,7 @@ remote_data_prefix: "https://saquant.github.io/sdg-data-xcap/"
 data_edit_url: http://prose.io/#SAquant/sdg-data-xcap/edit/develop/data/indicator_[id].csv
 # URL for the "Edit Metadata" button on indicators.
 metadata_edit_url: http://prose.io/#SAquant/sdg-data-xcap/edit/develop/meta/[id].md
-#
+#comment
 # The list of languages that are translated. The first one is the default.
 languages:
   - en
