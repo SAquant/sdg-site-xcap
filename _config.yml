@@ -69,8 +69,8 @@ email_contacts:
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Australia
-  adjective: Australian
+  name: South Africa
+  adjective: South African
 
 # Optionally set a title/body for the frontpage banner. The defaults below point to a standard
 # translation, but feel free to change it as needed.
@@ -141,6 +141,8 @@ footer_menu:
 # Configure the text (or "translation key") to be used on the
 # non-global metadata tab.
 non_global_metadata: indicator.national_metadata
+future: true
+timezone: Africa/Johannesburg
 
 # The list of languages that are translated. The first one is the default.
 languages:
