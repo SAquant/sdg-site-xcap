@@ -29,7 +29,7 @@ languages:
 remote_theme: open-sdg/open-sdg@master
 
 # Replace this title as needed.
-title: eThekwini Municipality Data for Indicators For The Sustainable Development Goals
+title: Indicators For The Sustainable Development Goals
 url: ""
 data_dir: data
 environment: staging
@@ -79,7 +79,7 @@ frontpage_introduction_banner:
   description: frontpage.intro_body
 
 frontpage_goals_grid:
-  title: Our data for Sustainable Development Goal indicators
+  title: eThekwini Municipality data for Sustainable Development Goal indicators
   description: Click on each goal for our Sustainable Development Goal global indicator data.
 
 frontpage_cards:
